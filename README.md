@@ -1,6 +1,5 @@
 # To do List - Settimana 10 - 02/05
-Potrebbe essere necessario cliccare sulla "home" della navbar per poter visualizzare il progetto.
-E' richiesto bootstrap.
+INSTALLARE BOOTSTRAP 
 
 # Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
