@@ -1,5 +1,6 @@
 # To do List - Settimana 10 - 02/05
 INSTALLARE BOOTSTRAP 
+Nota: GitHub non mi fa caricare il progetto perchè alcuni fili sono vuoti (scss) e bloccava il caricamento della cartella SRC ho quindi ricaricato la cartella dentro un file RAR
 
 # Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
